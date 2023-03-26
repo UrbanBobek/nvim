@@ -1,2 +1,3 @@
 require("ubobek.remap")
-print("Hello from ubobek")
+require("ubobek.set")
+
