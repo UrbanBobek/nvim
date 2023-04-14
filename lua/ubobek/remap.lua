@@ -1,5 +1,7 @@
 vim.g.mapleader = " "
-vim.keymap.set("n", "<leader>e", vim.cmd.Ex)
+
+-- Does not work with nvim-tree
+--vim.keymap.set("n", "<leader>e", vim.cmd.Ex)
 
 -- Move highlighted lines
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
