@@ -2,5 +2,6 @@
 My working neovim setup
 
 # Requirements
- - neo vim (obviously)
+ - neovim (obviously)
+ - npm
  - ripgrep ()
