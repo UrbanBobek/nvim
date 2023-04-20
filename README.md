@@ -1,5 +1,5 @@
 # nvim
-My working neovim setup
+My work in progress neovim setup
 
 # Requirements
  - neovim (obviously)
