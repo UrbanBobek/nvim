@@ -7,6 +7,7 @@ lsp.preset("recommended")
 lsp.ensure_installed({
     'rust_analyzer',
     'pyright',
+    'clangd'
 })
 -- (Optional) Configure lua language server for neovim
 lsp.nvim_workspace()
