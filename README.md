@@ -1,7 +1,4 @@
-# nvim
-My work in progress neovim setup
+# 💤 LazyVim
 
-# Requirements
- - neovim (obviously)
- - npm
- - ripgrep ()
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
+Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
